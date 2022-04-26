@@ -1,5 +1,4 @@
-»Õ/à´×Í¹/ÇÑ¹,ªÑèÇâÁ§,CO,O3, NO2, SO2 ,PM10, Wind dir, Wind speed, Temp, Rel hum,PM2.5
-,,at 3 m (ppm),at 3 m (ppb),at 3 m (ppb),at 3 m (ppb),at 3 m (Á¤¡./Åº.Á.),at 10 m (Deg.M),at 10 m (m/s),at 2 m ,at 2 m (%RH),at 3 m (Á¤¡./Åº.Á.)
+date,time,CO,O3, NO2, SO2 ,PM10, Wind dir, Wind speed, Temp, Rel hum,PM2.5
 160101,100,-,-,-,-,-,-,-,-,-,
 160101,200,-,-,-,-,-,-,-,-,-,
 160101,300,-,-,-,-,-,-,-,-,-,
